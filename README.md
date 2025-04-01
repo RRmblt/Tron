@@ -18,4 +18,5 @@ Pour lancer une partie on utilise la barre espace en étant sur le menu. Afin d'
 
 # Scores
 ![modem](images/tron_score.png "modem")
+
 Le système de score se base sur la durée d'une partie.
